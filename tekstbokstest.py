@@ -113,8 +113,8 @@ spill = SpillBrett(500,500)
 
 spill.start_spillet()
 
-#selve meldingen
 messagebox.showinfo("Introduksjon", "Velkommen til spillet! Her skal du slåss med monstre for å få tak i premien. Det første du skal gjøre er å finne sverdet")
+
 
 fortsett = True
 while fortsett:
